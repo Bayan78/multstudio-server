@@ -1,3 +1,8 @@
-node_modules/
+__pycache__/
+*.pyc
 .env
-*.log
+*.mp4
+*.mp3
+*.m4a
+.DS_Store
+venv/
